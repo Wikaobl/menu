@@ -1,6 +1,6 @@
 # Menu
 
-![image](https://github.com/Wikaobl/menu_project/assets/107032701/ce9c8fd8-e28a-41dc-9448-77e0db290084)
+![image](https://github.com/Wikaobl/menu/assets/107032701/fc1bb027-62a5-4d3b-876b-5c2070a11144)
 
 ## Desription
 
