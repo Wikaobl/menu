@@ -11,13 +11,13 @@ This is an easy menu project, by clicking on the _hamburger icon_, menu items (s
 First, run the development server:
 
 ```bash
-git clone https://github.com/Wikaobl/Menu-
+git clone https://github.com/Wikaobl/menu
 ```
 
 Next, install dependencies
 
 ```bash
-cd Menu-
+cd menu
 npm install
 ```
 
