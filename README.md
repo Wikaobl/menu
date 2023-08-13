@@ -5,6 +5,7 @@
 ## Desription
 
 This is an easy menu project, by clicking on the _hamburger icon_, menu items (subpages etc.) slide out from the left. The hamburger icon changes to an _X mark_.
+In this project I used **JS, CSS and HTML**.
 
 ## Usage
 
@@ -29,4 +30,4 @@ npm run
 
 After successfully starting the project, open your web browser and go to the specified URL http://localhost:3000
 
-### Good luck with your menu!
+### Good luck with your menu! 🐸
